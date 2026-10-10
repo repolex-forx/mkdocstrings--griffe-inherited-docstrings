@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-inherited-docstrings/commit/cf49f4e23ac1b9eac99bddaa67aeb72d25027a63",
       "git:hexsha": "cf49f4e23ac1b9eac99bddaa67aeb72d25027a63",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.4"
     },
     {
