@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-inherited-docstrings/commit/cf49f4e23ac1b9eac99bddaa67aeb72d25027a63",
       "git:hexsha": "cf49f4e23ac1b9eac99bddaa67aeb72d25027a63",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.4",
+      "repolex:parsedAt": "2026-10-10T22:24:28.427892+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-inherited-docstrings/commit/6cb9e9ade200916c087c92072202f109cf12fc8e",
