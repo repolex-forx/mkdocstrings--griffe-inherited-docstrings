@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe-inherited-docstrings",
+  "versions": [
+    {
+      "commit": "cf49f4e23ac1b9eac99bddaa67aeb72d25027a63",
+      "tag": "1.1.4",
+      "parsed_at": "2026-10-10T22:24:28.428391+00:00"
+    }
+  ]
+}
